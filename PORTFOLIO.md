@@ -4,11 +4,10 @@ A comprehensive test case management and execution platform built with modern Py
 
 ## Author
 
-**Your Name**
+**Biniyam Gashaw**
 
-- Email: your.email@example.com
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: biniyam.gashaw@hotmail.com
+- LinkedIn: [Biniyam](https://www.linkedin.com/in/iambiniyam/)
 
 ## Skills Demonstrated
 
@@ -97,7 +96,7 @@ Built for horizontal scaling with stateless APIs, distributed workers, and prope
 
 ```bash
 # Clone and start all services
-git clone <your-repo>
+git clone https://github.com/iambiniyam/testflow-platform.git
 cd testflow-platform
 cp .env.example .env
 docker-compose up -d
@@ -167,7 +166,3 @@ This platform can be extended with:
 - CI/CD platform integrations (Jenkins, GitLab CI)
 - Advanced reporting and analytics
 - AI-powered test recommendations
-
----
-
-**This project demonstrates my ability to build enterprise-grade backend systems using the exact tech stack required for the Senior Backend Engineer role.**
