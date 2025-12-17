@@ -20,7 +20,7 @@ pylint==3.0.2
 pre-commit==3.6.0
 
 # Security
-safety==3.0.1
+safety==3.2.10
 bandit==1.7.5
 
 # Type Stubs
